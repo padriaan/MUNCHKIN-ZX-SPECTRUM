@@ -19,10 +19,14 @@ Delete (backspace) to quit game/ go back to start screen.
 Controls:  
 - Keyboard (redefinable)
 - Kempston or Cursor joystick
-- 
+  
 <img width="640" height="480" alt="loading_screen" src="https://github.com/user-attachments/assets/19712cc3-ffae-4c79-a328-33e5f896ab77" />
 
+<img width="640" height="480" alt="start" src="https://github.com/user-attachments/assets/66496557-4797-4b0d-9d2e-55ed92cb8d06" />
 
+<img width="640" height="480" alt="maze1" src="https://github.com/user-attachments/assets/3be03076-9d67-4137-9d45-0ac55e2f5076" />
+
+<img width="640" height="480" alt="maze2" src="https://github.com/user-attachments/assets/6db3ba88-d54b-4c0b-8c6b-8724910d05d3" />
 
 
 Compile and link from source
