@@ -9,11 +9,11 @@ Originally released in 1981, programmed by Ed Averett.
 ![Front_EU_resized](https://github.com/user-attachments/assets/1b689f52-96f4-491d-a65b-a9b82df61858) ![Front_US_resized](https://github.com/user-attachments/assets/0c20c7f1-c6b4-47c8-8a5d-9e2d7b18a3f0)
 
 
-Created with Z88DK (https://z88dk.org) in C using the SP1 sprite libraties.          
+Created in C with Z88DK (https://z88dk.org) using the SP1 sprite library.          
 Remake by Peter Adriaanse august 2025.  
-- Version 0.7 (Sinclair ZX Spectrum 48K emulator or real hardware)  
+Version 0.7 (Sinclair ZX Spectrum 48K emulator or real hardware)  
 
-Press any key at loading screen, any keys for controls.  
+Press any key at loading screen, followed by any key for controls.  
 Delete (backspace) to quit game/ go back to start screen.  
 
 Controls:  
@@ -31,7 +31,7 @@ Controls:
 
 Compile and link from source
 -----------------------------
-First install a Z88DK SDL 2 development environment.
+First install a Z88DK development environment.
 Use the build.sh (Linux) to compile and create a munchkin_z80.tap file.
 
 Run binary
