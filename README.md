@@ -36,6 +36,6 @@ Use the build.sh (Linux) to compile and create a munchkin_z80.tap file.
 
 Run binary
 ------------
-Emulator: use the muchkin_z80.tap file
-Real hardware: play the munchkin_z80.wav file (using a media player or write to tape)
+- Emulator: use the muchkin_z80.tap file
+- Real hardware: play the munchkin_z80.wav file (using a media player or write to tape)
 
