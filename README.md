@@ -19,6 +19,8 @@ Delete (backspace) to quit game/ go back to start screen.
 Controls:  
 - Keyboard (redefinable)
 - Kempston or Cursor joystick
+- 
+<img width="640" height="480" alt="loading_screen" src="https://github.com/user-attachments/assets/19712cc3-ffae-4c79-a328-33e5f896ab77" />
 
 
 
