@@ -39,7 +39,7 @@ Run binary
 - Emulator: use the muchkin_z80.tap file
 - Real hardware: play the munchkin_z80.wav file (using a media player or write to tape)
 
- <img width="817" height="791" alt="38new13_scaled50pct" src="https://github.com/user-attachments/assets/a1843e89-8ec3-4853-99ea-bdc43d150dfe" />
+ <img width="600" height="581" alt="38new13_scaled50x60pct" src="https://github.com/user-attachments/assets/82c84b36-322b-4647-9dda-286674bd351c" />
 
 
 
