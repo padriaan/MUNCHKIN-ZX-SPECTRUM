@@ -20,7 +20,7 @@ Controls:
 - Keyboard (redefinable)
 - Kempston or Cursor joystick
   
-<img width="640" height="480" alt="loading_screen" src="https://github.com/user-attachments/assets/19712cc3-ffae-4c79-a328-33e5f896ab77" />
+<img width="640" height="480" alt="screen_print" src="https://github.com/user-attachments/assets/5d97a420-42a2-42f1-b3c9-bc8220974a52" />
 
 <img width="640" height="480" alt="start" src="https://github.com/user-attachments/assets/66496557-4797-4b0d-9d2e-55ed92cb8d06" />
 
